@@ -6,7 +6,7 @@ import SiriImage from './images/siri.png';
 function App() {
     return (
         <div>
-            <div>Personal Digital Assistant</div>
+            <div>Personal Digital Assistant PDA </div>
 
             <div className="container">
                 <section className="section">
